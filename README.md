@@ -148,7 +148,7 @@ I enjoy working across the complete development lifecycle — **from writing cod
 
 ### 🌐 Live Application
 
-👉 **[Open NexoraAI](https://d3sop2e5c7665n.cloudfront.net/)**
+👉 **[Open NeuronaAI](https://d3sop2e5c7665n.cloudfront.net/)**
 
 ---
 
