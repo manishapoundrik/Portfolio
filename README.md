@@ -106,7 +106,7 @@ I enjoy working across the complete development lifecycle — **from writing cod
 
 # 🚀 Featured Projects
 
-## 🤖 NexoraAI — Multi-Agent AI Platform
+## 🤖 NeuronaAI — Multi-Agent AI Platform
 
 > A microservice-based AI platform designed with independent services for authentication, chat, agents, and billing.
 
