@@ -146,9 +146,9 @@ I enjoy working across the complete development lifecycle — **from writing cod
 * 🔄 Built **GitHub Actions CI/CD pipelines**
 * 🌐 Hosted frontend using **S3 + CloudFront**
 
-### 🌐 Live Application
+### 🌐 Repository
 
-👉 **[Open NeuronaAI](https://d3sop2e5c7665n.cloudfront.net/)**
+👉 **[View NueronaAI](https://github.com/manishapoundrik/Neurona-AI/)**
 
 ---
 
